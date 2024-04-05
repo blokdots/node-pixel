@@ -43,7 +43,7 @@
     "color-string": "^1.5.3"
   },
   "peerDependencies": {
-    "firmata": "git://github.com/blokdots/firmata.git",
+    "firmata": "git://github.com/blokdots/firmata.js.git",
     "johnny-five": "git://github.com/blokdots/johnny-five.git"
   },
   "devDependencies": {
