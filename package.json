@@ -43,8 +43,8 @@
     "color-string": "^1.5.3"
   },
   "peerDependencies": {
-    "firmata": "^0.19.1",
-    "johnny-five": "^2.0.0"
+    "firmata": "git://github.com/blokdots/firmata.git",
+    "johnny-five": "git://github.com/blokdots/johnny-five.git"
   },
   "devDependencies": {
     "board-io": "^3.0.4",
@@ -52,7 +52,7 @@
     "eslint": "^8.0.0",
     "husky": "^9.0.5",
     "istanbul": "^0.4.5",
-    "johnny-five": "^2.0.0",
+    "johnny-five": "git://github.com/blokdots/johnny-five.git",
     "mock-firmata": "0.2.0",
     "nodeunit": "^0.11.3",
     "sinon": "^15.0.1",
